@@ -1,0 +1,12 @@
+{
+  "name": "fyp_build_4",
+  "displayName": "fyp_build_4",
+  "expo": {
+    "name": "fyp_build_4",
+    "slug": "fyp_build_4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+export const UPDATE_PRODUCTS = 'UPDATE_PRODUCTS'
+export const TOGGLE_MODE = 'TOGGLE_MODE'
